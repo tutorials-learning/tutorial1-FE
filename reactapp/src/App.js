@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code>. 4th edit modifying now after amplify.yml now modified basedir. Modified cd reactapp before build.
           Changed further now to add a prebuild
+          Aded ignore
         </p>
         <a
           className="App-link"
