@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code>. Third edit modifying now after amplify.yml now modified basedir
+          Edit <code>src/App.js</code>. 4th edit modifying now after amplify.yml now modified basedir. Modified cd reactapp before build
         </p>
         <a
           className="App-link"
