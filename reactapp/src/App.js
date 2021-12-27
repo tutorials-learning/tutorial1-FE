@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code>. First edit to check
+          Edit <code>src/App.js</code>. Second edit modifying amplify.yml
         </p>
         <a
           className="App-link"
