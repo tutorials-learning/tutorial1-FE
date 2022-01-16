@@ -7,9 +7,11 @@ import awsExports from './aws-exports';
 Amplify.configure(awsExports);
 
 function App({ signOut, user }) {
+  console.log(user);
+  console.log(user.username);
   return (<>
       <h1>  Hello {user.username} </h1>
-      <h1>Hello {user.username}  Build with npm</h1>
+      <h1>Hello {user.username}  Build with npm second try</h1>
       <button onClick={signOut}>Sign out</button>
     </>
   );
